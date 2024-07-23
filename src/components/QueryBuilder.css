@@ -1,0 +1,54 @@
+.query-builder {
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .query-builder h3 {
+    margin: 5px 0;
+  }
+  
+  .query-builder input[type="text"] {
+    padding: 5px;
+    margin: 5px 0;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  
+  .query-builder select {
+    padding: 5px;
+    margin: 5px 0;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  
+  .query-builder textarea {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    font-family: monospace;
+    white-space: pre;
+    box-sizing: border-box;
+  }
+  
+  .query-builder button {
+    padding: 10px;
+    margin: 5px;
+    cursor: pointer;
+  }
+  
+  .query-builder .column-item {
+    display: flex;
+    align-items: center;
+    margin: 5px 0;
+  }
+  
+  .query-builder .column-item input[type="text"] {
+    padding: 5px;
+    margin: 5px;
+  }
+  
+  .query-builder .column-item span {
+    margin: 5px;
+    cursor: pointer;
+  }
+  
